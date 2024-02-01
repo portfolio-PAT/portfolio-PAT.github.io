@@ -147,7 +147,7 @@ section .title::after{
     width: 40px;
     height: 40px
 }
-.navbar .logo a p{
+.navbar .logo a{
     color: #fff;
     font-size: 35px;
     font-weight: 600;
