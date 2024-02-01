@@ -131,7 +131,7 @@ section .title::after{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: crimson;
+    background: #00c8c4;
 }
 .navbar .max-width{
     display: flex;
@@ -148,7 +148,7 @@ section .title::after{
     height:40px;
 }
 .navbar .logo a span{
-    color: crimson;
+    color: #00c8c4;
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
