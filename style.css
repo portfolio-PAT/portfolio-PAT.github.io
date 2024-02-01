@@ -133,17 +133,16 @@ section .title::after{
     padding: 15px 0;
     background: #00c8c4;
 }
-.navbar .max-width .logo a{
+.navbar .max-width .logo a div{
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 10px
 }
-//.navbar .logo{
-//    display: flex;
-//    gap: 10px;
-//
-//}
+.navbar .logo{
+    display: flex;
+    gap: 10px;
+}
 .navbar .logo a img{
     width: 40px;
     height: 40px
