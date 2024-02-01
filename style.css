@@ -142,8 +142,9 @@ section .title::after{
     color: #fff;
     font-size: 35px;
     font-weight: 600;
+}
+.navbar .logo a div{
     display: flex;
-    flex-direction: row;
     align-items: center;
     justify-content: center;
     gap: 10px;
